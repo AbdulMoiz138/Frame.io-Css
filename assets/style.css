@@ -819,7 +819,7 @@
 
  /* twenty6 portion  */
  .backimg {
-   background-image: url(assets/backgroundimg.jpeg);
+   background-image: url(image/backgroundimg.jpeg);
    height: 80vmax;
    margin-top: 30px;
    background-size: cover;
